@@ -1,4 +1,4 @@
-print(setup)
-print(first)
-print(last)
-print(passcode)
+setup
+first
+last
+passcode
